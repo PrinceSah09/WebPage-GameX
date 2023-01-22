@@ -1,0 +1,316 @@
+body{
+    background-color: black;
+}
+
+#cc{
+    border: 2px soild red;
+    
+    height:570px;
+}
+
+
+.card{
+    margin:  33px;
+    padding-left: 6px;
+    display:inline-block ;
+    align-items: center;
+}
+
+#oo{
+    color: white;
+    border: 1px solid black;
+    border-radius: 16px;
+}
+#aa{
+    color: rgb(250, 7, 55);
+    
+}
+#ab :hover{
+    color: red;
+}
+
+#a1{
+    margin-left: -4px;
+    padding: 5px;
+    background-color: rgb(2, 2, 26);
+    border-radius: 30px;
+    margin-top: 5px;
+
+}
+#a2{
+    margin-left: -3px;
+    padding: 5px;
+}
+
+
+#a3{
+    margin-left: -5px;
+    padding: 5px;
+}
+
+
+#n1{
+    border: 3px solid rgb(143, 192, 10);
+    color: rgb(12, 1, 1);
+    border-radius: 50px;
+    background-color: yellow;
+    font-family:'Girassol', cursive;
+    cursor: pointer;
+    
+}
+#ra{
+    background-color: rgb(27, 20, 20);
+    color: rgb(2, 250, 2);
+    border: 1px solid transparent;
+    border-radius: 32px;
+}
+#rb{
+    background-color: rgb(8, 0, 0);
+    color: rgb(2, 250, 2);
+}
+#rc{
+    background-color: rgb(8, 0, 0);
+    color: rgb(2, 250, 2);
+}
+
+
+
+
+
+#n2{
+ color: rgb(253, 1, 1);   
+ font-family: 'Goblin One', cursive;
+}
+
+
+#n4{
+color: rgb(94, 255, 0);
+
+}
+
+
+
+#n7{
+color: #8da6f8;
+font-family: 'New Tegomin', serif;
+
+}
+
+#n10{
+color: rgb(9, 255, 0);
+}
+#n6{
+    color: rgb(35, 236, 8);
+background-color: rgb(8, 8, 8);
+border: 3px solid red;
+border-radius: 10px;
+}
+
+.dropdown-menu{
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 12px;
+}
+
+#n5{
+    
+    background-color: rgb(8, 8, 8);
+ 
+    color: rgb(6, 159, 248);
+    border-radius: 20px;
+}
+
+
+#search{
+    border: 5px solid rgb(138, 4, 4);
+    color: black;
+    font-family:'New Tegomin', serif;
+
+}
+#sea{
+    border-radius: 13px;
+    border: 3px solid red;
+    font-family:'New Tegomin', serif;
+}
+.cd{
+    border: 2px solid red;
+}
+
+/* .mid{
+    border: 2px solid red;
+    height: 500px;
+    width: 100%;
+    margin-top: 10px;
+} */
+
+#mid1{
+    border: 1px solid rgb(0, 0, 0);
+   
+    background-color: black;
+    color:rgb(255, 255, 255)
+}
+#ass{font-family: 'Josefin Sans', sans-serif;
+color: red;
+cursor: pointer;
+
+    
+}
+
+#aaa{
+color: red;
+display: inline;
+border: 2px solid rgb(253, 253, 252);
+color: blanchedalmond;
+}
+#asd{
+    display: inline;
+    color: blanchedalmond;
+    border: 2px solid rgb(255, 255, 255);
+}
+ #im{
+    border: 5px solid rgb(10, 9, 9);
+    padding: 10px;
+    margin: 10px;
+    margin-top: 31px;
+    
+} 
+#asn{
+    font-family:'New Tegomin', serif;
+    color: rgb(255, 255, 117);
+    cursor: pointer; 
+}
+#asnq{
+    font-family:'New Tegomin', serif;
+    color: rgb(236, 250, 108);
+    cursor: pointer;
+}
+#cll{
+    font-family: 'Itim', cursive;
+    color: rgb(219, 219, 190);
+    cursor: pointer;
+   
+}
+#foott{
+    border: 1px solid transparent;
+
+    background-color: rgb(25, 25, 31);
+    color: rgb(255, 255, 255);
+    max-width: 100%;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+#prince{
+    padding-top: 60px;
+}
+.prince{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    align-items: center;
+  
+    
+}
+.pppp{
+    border: 2px solid black;
+   background-color: black;
+   
+
+  
+}
+
+
+#pppp{
+    margin-left: 30px;
+    font-family: 'Zen Dots', cursive;
+    background-color: black;
+    color: blanchedalmond;
+    cursor: pointer;
+   
+}
+#we{
+    font-family: 'Zen Dots', cursive;
+    color: rgb(248, 198, 133);
+}
+#are{
+    font-family: 'Itim', cursive;
+    color: blanchedalmond;
+    cursor: pointer;
+}
+#fot{
+    border: 1px transparent;
+    color: blanchedalmond;
+}
+#ff{
+    margin-left: -202px;
+   
+}
+#foty{
+    border: 2px solid transparent;
+    
+}
+#last{
+    border: 1px solid transparent;
+    border-radius: 34px;
+}
+#opop{
+    border: 1px solid transparent;
+    border-radius: 30px;
+
+
+}
+#wer{
+   
+    margin-bottom: 20px;
+    margin-left: 16px;
+    
+}
+#weru{
+    margin-left:10px ;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    color: rgb(250, 238, 71);
+}
+#pyl{
+    display: inline;
+    border-radius: 34px;
+}
+
+#cca{
+    border: 2px soild red;
+    
+    height:300px;
+  
+}
+#io{
+    border-radius: 56px;
+    border: 3px solid rgb(77, 48, 48);
+}
+#btn1{
+    border: 1 px solid transparent;
+    border-radius: 23px;
+    border: 2px solid rgb(238, 248, 148);
+}
+#loi{
+    border: 1px solid transparent;
+    border-radius: 34px;
+    background-color: rgb(62, 72, 77);
+    margin-top: 5px;
+    font-size: small;
+    margin-left: 600px;
+}
+#lolo{
+    border-radius: 23px;
+    background-color: teal;
+    border: 2px solid rgb(49, 18, 18);
+    color: rgb(255, 255, 255);
+}
+#loli{
+    border-radius: 23px;
+    background-color: teal;
+    border: 2px solid rgb(49, 18, 18);
+    color: rgb(255, 255, 255);
+   
+}
